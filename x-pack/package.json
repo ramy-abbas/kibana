@@ -12,6 +12,8 @@
   },
   "kibana": {
     "build": {
+
+      
       "oss": false
     },
     "clean": {
