@@ -13,6 +13,8 @@
   "kibana": {
     "build": {
 
+
+      
       
       "oss": false
     },
